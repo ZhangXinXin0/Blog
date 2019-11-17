@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://starxin.netlify.com/</id>
     <title>STARXIN</title>
-    <updated>2019-11-03T15:22:37.079Z</updated>
+    <updated>2019-11-17T02:44:41.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://starxin.netlify.com/"/>
     <link rel="self" href="https://starxin.netlify.com//atom.xml"/>
@@ -10,4 +10,32 @@
     <logo>https://starxin.netlify.com//images/avatar.png</logo>
     <icon>https://starxin.netlify.com//favicon.ico</icon>
     <rights>All rights reserved 2019, STARXIN</rights>
+    <entry>
+        <title type="html"><![CDATA[001. 菊次郎的夏天]]></title>
+        <id>https://starxin.netlify.com//post/001-ju-ci-lang-de-xia-tian</id>
+        <link href="https://starxin.netlify.com//post/001-ju-ci-lang-de-xia-tian">
+        </link>
+        <updated>2019-11-17T01:51:43.000Z</updated>
+        <content type="html"><![CDATA[<p>清新的夏天啊，<br>
+久石让的 <a href="https://music.douban.com/subject/1419282/">Summer</a> 响起时，<br>
+搞笑的画面，<br>
+都变得那么动人</p>
+<p><img src="https://starxin.netlify.com//post-images/1573957455985.png" alt=""><br>
+总低着头的正男，<br>
+和无厘头的菊次郎，<br>
+一路上，那些孤独善良可爱的人</p>
+<p><img src="https://starxin.netlify.com//post-images/1573957710563.png" alt=""><br>
+肩上的一朵向日葵🌻，<br>
+头顶的那颗大大荷叶，<br>
+背包上的那对翅膀</p>
+<p><img src="https://starxin.netlify.com//post-images/1573958011544.png" alt=""><br>
+还有，<br>
+天使之铃，<br>
+北斗七星，<br>
+一二三木头人</p>
+<p><img src="https://starxin.netlify.com//post-images/1573956032906.png" alt=""><br>
+「先生，你叫什么名字？」<br>
+「菊次郎，他妈的，滚吧。」</p>
+]]></content>
+    </entry>
 </feed>
